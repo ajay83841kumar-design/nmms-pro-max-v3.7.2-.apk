@@ -10,34 +10,5 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "df23cfc6b95a9102",
-        "key": "aakk",
-        "expirydate": "06-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "96a769c4fc37d7e0",
-        "key": "ak47",
-        "expirydate": "06-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "438e5b54ef69a7de",
-        "key": "12345",
-        "expirydate": "06-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "e8ca3fb72841be27",
-        "key": "123456",
-        "expirydate": "30-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "a8b8216e48f2e81e",
-        "key": "1234",
-        "expirydate": "12-04-2026",
-        "Allowoffline": false
+    }
 ]
