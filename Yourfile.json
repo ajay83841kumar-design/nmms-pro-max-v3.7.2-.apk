@@ -14,7 +14,7 @@
     {
         "device_id": "df23cfc6b95a9102",
         "key": "123456",
-        "expirydate": "27-04-2026",
+        "expirydate": "27-05-2026",
         "Allowoffline": false
     },
     {
@@ -49,7 +49,7 @@
     },
     {
         "device_id": "ca27b97301ef6eb1",
-        "key": "12345",
+        "key": "123456",
         "expirydate": "16-04-2026",
         "Allowoffline": false
     }
